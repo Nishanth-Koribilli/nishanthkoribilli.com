@@ -55,7 +55,7 @@
 <body>
     <div class="container">
         <div class="image-section">
-            <img src="image.jpg" alt="A description of the image">
+            <img src="nishu backgroung.jpg" alt="A description of the image">
         </div>
         <div class="description-section">
             <h1>Image Title</h1>
